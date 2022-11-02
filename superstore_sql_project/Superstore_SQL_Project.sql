@@ -2,11 +2,11 @@ CREATE DATABASE Practise_Lab;
 
 USE Practise_Lab;
 
-SELECT*
+SELECT *
 FROM SampleSuperstore;
 
 --Select all the record where Region = South
-SELECT*
+SELECT *
 FROM SampleSuperstore
 WHERE Region = 'South';
 
